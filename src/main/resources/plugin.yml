@@ -1,0 +1,21 @@
+main: pl.flezy.sloty.Sloty
+name: Sloty
+version: 1.0.0
+description: Plugin na zarządzanie slotami serwera
+api-version: 1.17
+author: Flezy
+website: flezy.pl
+commands:
+  sloty:
+    description: Komenda na zarządzanie slotami serwera
+    aliases: [slots, slot]
+    usage: /<command>
+    permission: flezy.sloty.command
+    permission-message: §cNie masz permisji do używania tej komendy
+permissions:
+  flezy.sloty.command:
+    description: Permisja do komendy /sloty
+    default: op
+  flezy.sloty.bypass:
+    description: Permisja do omijania limitu slotów
+    default: op
