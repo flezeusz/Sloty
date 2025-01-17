@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img src="icon.png" alt="SlotControl" width="100" height="100"/> 
+    <img src="icon.png" alt="Sloty" width="100" height="100"/> 
     <br/>
-    SlotControl
+    Sloty
 </h1>
 
-<p align="center"><strong>SlotControl</strong> - plugin do Minecraft, który pozwala na zarządzanie liczbą slotów na serwerze, umożliwiając dynamiczną zmianę dostępnych miejsc dla graczy za pomocą komend.</p>
+<p align="center"><strong>Sloty</strong> - plugin do Minecraft, który pozwala na zarządzanie liczbą slotów na serwerze, umożliwiając dynamiczną zmianę dostępnych miejsc dla graczy za pomocą komend.</p>
 <p align="center"><strong>Spigot 1.17.1+</strong></p>
 
 ## 🌟 Funkcje
